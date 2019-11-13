@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="E:\wamp\www\prestashop17\organicshop\themes\jms_organic\modules\hotdeals\views\templates\front\allproduct.tpl" source-language="de-DE" target-language="de-DE" datatype="plaintext">
+    <body>
+      <trans-unit id="9d9493d094dc92aae9b7147ae087700b">
+        <source>All Deal Product</source>
+        <target>All Deal Product</target>
+        <note>Context:
+File: E:\wamp\www\prestashop17\organicshop\themes\jms_organic\modules\hotdeals\views\templates\front\allproduct.tpl:25</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="E:\wamp\www\prestashop17\organicshop\themes\jms_organic\modules\hotdeals\views\templates\hook\hotdeals.tpl" source-language="de-DE" target-language="de-DE" datatype="plaintext">
+    <body>
+      <trans-unit id="680f8788f02cde5896ece59334669d3b">
+        <source>View all product sale</source>
+        <target>View all product sale</target>
+        <note>Context:
+File: E:\wamp\www\prestashop17\organicshop\themes\jms_organic\modules\hotdeals\views\templates\hook\hotdeals.tpl:143</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="E:\wamp\www\prestashop17\organicshop\themes\jms_organic\modules\hotdeals\views\templates\hook\list.tpl" source-language="de-DE" target-language="de-DE" datatype="plaintext">
+    <body>
+      <trans-unit id="497b765130d80b0359b49e4f8cbfba2f">
+        <source>Hotdeals list</source>
+        <target>Hotdeals list</target>
+        <note>Context:
+File: E:\wamp\www\prestashop17\organicshop\themes\jms_organic\modules\hotdeals\views\templates\hook\list.tpl:25</note>
+      </trans-unit>
+      <trans-unit id="7dce122004969d56ae2e0245cb754d35">
+        <source>Edit</source>
+        <target>Edit</target>
+        <note>Context:
+File: E:\wamp\www\prestashop17\organicshop\themes\jms_organic\modules\hotdeals\views\templates\hook\list.tpl:55</note>
+      </trans-unit>
+      <trans-unit id="f2a6c498fb90ee345d997f888fce3b18">
+        <source>Delete</source>
+        <target>Delete</target>
+        <note>Context:
+File: E:\wamp\www\prestashop17\organicshop\themes\jms_organic\modules\hotdeals\views\templates\hook\list.tpl:60</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="E:\wamp\www\prestashop17\organicshop\themes\jms_organic\modules\hotdeals\views\templates\hook\search-ajax.tpl" source-language="de-DE" target-language="de-DE" datatype="plaintext">
+    <body>
+      <trans-unit id="763dab47c9a9febb38cd90224d9f138a">
+        <source>There is no product</source>
+        <target>There is no product</target>
+        <note>Context:
+File: E:\wamp\www\prestashop17\organicshop\themes\jms_organic\modules\hotdeals\views\templates\hook\search-ajax.tpl:46</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

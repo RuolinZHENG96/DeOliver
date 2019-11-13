@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="E:\wamp\www\prestashop17\organicshop\themes\jms_organic\modules\jmsblogwidget\views\templates\hook\sidebar-widget.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="dae52b80711ee1029c7006f95018d300">
+        <source>Recent</source>
+        <target>Recent</target>
+        <note>Context:
+File: E:\wamp\www\prestashop17\organicshop\themes\jms_organic\modules\jmsblogwidget\views\templates\hook\sidebar-widget.tpl:53</note>
+      </trans-unit>
+      <trans-unit id="8413c683b4b27cc3f4dbd4c90329d8ba">
+        <source>Comments</source>
+        <target>Comments</target>
+        <note>Context:
+File: E:\wamp\www\prestashop17\organicshop\themes\jms_organic\modules\jmsblogwidget\views\templates\hook\sidebar-widget.tpl:56</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

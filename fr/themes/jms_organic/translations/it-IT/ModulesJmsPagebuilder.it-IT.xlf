@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="E:\wamp\www\prestashop17\organicshop\themes\jms_organic\modules\jmspagebuilder\views\templates\hook\addonblogfooter.tpl" source-language="it-IT" target-language="it-IT" datatype="plaintext">
+    <body>
+      <trans-unit id="ed4832a84ee072b00a6740f657183598">
+        <source>Views</source>
+        <target>Views</target>
+        <note>Context:
+File: E:\wamp\www\prestashop17\organicshop\themes\jms_organic\modules\jmspagebuilder\views\templates\hook\addonblogfooter.tpl:82</note>
+      </trans-unit>
+      <trans-unit id="a5d491060952aa8ad5fdee071be752de">
+        <source>comments</source>
+        <target>comments</target>
+        <note>Context:
+File: E:\wamp\www\prestashop17\organicshop\themes\jms_organic\modules\jmspagebuilder\views\templates\hook\addonblogfooter.tpl:88</note>
+      </trans-unit>
+      <trans-unit id="090c504aac82b3215449513e4125e734">
+        <source>[Read more]</source>
+        <target>[Read more]</target>
+        <note>Context:
+File: E:\wamp\www\prestashop17\organicshop\themes\jms_organic\modules\jmspagebuilder\views\templates\hook\addonblogfooter.tpl:97</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="E:\wamp\www\prestashop17\organicshop\themes\jms_organic\modules\jmspagebuilder\views\templates\hook\addonblog.tpl" source-language="it-IT" target-language="it-IT" datatype="plaintext">
+    <body>
+      <trans-unit id="8413c683b4b27cc3f4dbd4c90329d8ba">
+        <source>Comments</source>
+        <target>Comments</target>
+        <note>Context:
+File: E:\wamp\www\prestashop17\organicshop\themes\jms_organic\modules\jmspagebuilder\views\templates\hook\addonblog.tpl:92</note>
+      </trans-unit>
+      <trans-unit id="43340e6cc4e88197d57f8d6d5ea50a46">
+        <source>Read more</source>
+        <target>Read more</target>
+        <note>Context:
+File: E:\wamp\www\prestashop17\organicshop\themes\jms_organic\modules\jmspagebuilder\views\templates\hook\addonblog.tpl:100</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="E:\wamp\www\prestashop17\organicshop\themes\jms_organic\modules\jmspagebuilder\views\templates\hook\addonhotdeal.tpl" source-language="it-IT" target-language="it-IT" datatype="plaintext">
+    <body>
+      <trans-unit id="0a18f0aa51f30f1107495bf639caf16c">
+        <source>Shop Now</source>
+        <target>Shop Now</target>
+        <note>Context:
+File: E:\wamp\www\prestashop17\organicshop\themes\jms_organic\modules\jmspagebuilder\views\templates\hook\addonhotdeal.tpl:90</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="E:\wamp\www\prestashop17\organicshop\themes\jms_organic\modules\jmspagebuilder\views\templates\hook\addonmaplocation.tpl" source-language="it-IT" target-language="it-IT" datatype="plaintext">
+    <body>
+      <trans-unit id="be9256c578fa1d4e043b8de00a808317">
+        <source>Find our stores</source>
+        <target>Find our stores</target>
+        <note>Context:
+File: E:\wamp\www\prestashop17\organicshop\themes\jms_organic\modules\jmspagebuilder\views\templates\hook\addonmaplocation.tpl:94</note>
+      </trans-unit>
+      <trans-unit id="c46def90c17d00226139900cdf9abf14">
+        <source>Choose Store Location</source>
+        <target>Choose Store Location</target>
+        <note>Context:
+File: E:\wamp\www\prestashop17\organicshop\themes\jms_organic\modules\jmspagebuilder\views\templates\hook\addonmaplocation.tpl:96</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="E:\wamp\www\prestashop17\organicshop\themes\jms_organic\modules\jmspagebuilder\views\templates\hook\addonproducttab.tpl" source-language="it-IT" target-language="it-IT" datatype="plaintext">
+    <body>
+      <trans-unit id="cd118d21c3b0b4762c6e0063661e6e45">
+        <source>Latest</source>
+        <target>Latest</target>
+        <note>Context:
+File: E:\wamp\www\prestashop17\organicshop\themes\jms_organic\modules\jmspagebuilder\views\templates\hook\addonproducttab.tpl:54</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

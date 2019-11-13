@@ -1,0 +1,115 @@
+
+
+@media (max-width: 991px){
+
+	/*more element*/
+	.service_right .feature-box-el, .service_right .feature-box-el3{
+		margin-bottom:15px;
+	}
+}
+@media (max-width: 980px) {
+	#cart_block.shoppingcart-bottom .shoppingcart-content {
+	    display: none;
+	}
+	#cart_block.shoppingcart-bottom .cart-prices {
+	    border: 0 none;
+	    padding: 0;
+	    width: 100%;
+	}
+}
+@media (max-width: 767px){
+	   .btn_action, .delete-action{
+		   display:inline-block;
+	   }
+	   .delete-action{
+		   margin-left:0;
+		   margin-top:15px;
+	   }
+	   #block-history.block-center{
+		   overflow-x: auto;
+	   }
+	   #blockcart-modal .modal-dialog{
+	   	margin:30px auto !important;
+	   }
+	    #blockcart-modal .cart-content{
+	    	padding-left: 0px;
+	    }
+	    #blockcart-modal .modal-body{
+	    	padding:20px;
+	    }
+	    #blockcart-modal .product-name{
+	    	font-size: 14px;
+}
+	  
+}
+@media (max-width: 600px){
+	.jms-popup-wrap{
+	   		width:450px !important;
+
+	}
+	#cart_block.shoppingcart-bottom .cart-prices-line {
+		    padding: 0 10px;
+		}
+		#cart_block.shoppingcart-bottom .cart-prices-line .price, #cart_block.shoppingcart-bottom .cart-label {
+		    font-size: 13px !important;
+		}
+	#blockcart-modal .divide-right , #blockcart-modal .divide-left{
+		width:100% !important;
+		font-size: 14px;
+	}
+	#blockcart-modal .divide-right{
+		padding-bottom: 10px;
+		margin-bottom: 20px;
+		border-bottom: 1px solid #ebebeb;
+	}
+	
+	  #blockcart-modal .cart-content{
+	   	padding-left: 0;
+	   }
+	   #blockcart-modal .divide-left{
+	   	border-left:0;
+	   }
+
+}
+@media (max-width: 481px){
+	.products-list-in-row .product_button a.cart-button.btn-default {
+		margin-right: 5px;
+		padding: 4px 9px;
+	}
+	#cms .nav-tabs > li{
+		width:100%;
+	}
+	
+	.jms-popup-wrap{
+	   		width:300px !important;
+
+	}
+	#blockcart-modal .modal-body {
+	    padding: 10px 15px;
+	}
+	#blockcart-modal .divide-right , #blockcart-modal .divide-left{
+		font-size: 12px;
+	}
+	#blockcart-modal .divide-right{
+		margin-bottom: 5px;
+		border-bottom: 1px solid #ebebeb;
+		padding:10px;
+	}
+	#blockcart-modal .cart-products-count{
+		font-size: 12px;
+	}
+	#blockcart-modal .divide-left button{
+		display: inline-block;
+		float: left;
+		margin-right: 5px;
+	}
+	#blockcart-modal .btn-cart{
+		font-size: 10px;
+		padding:7px 8px;
+	}
+	#blockcart-modal .cart-content > p{
+      margin-bottom: 5px;
+	}
+}
+
+

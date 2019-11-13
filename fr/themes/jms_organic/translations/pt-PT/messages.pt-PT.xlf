@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="E:\wamp\www\prestashop17\organicshop\themes\jms_organic\modules\hotdeals\views\templates\front\allproduct.tpl" source-language="pt-PT" target-language="pt-PT" datatype="plaintext">
+    <body>
+      <trans-unit id="03c2e7e41ffc181a4e84080b4710e81e">
+        <source>New</source>
+        <target>Novo</target>
+        <note>Context:
+File: E:\wamp\www\prestashop17\organicshop\themes\jms_organic\modules\hotdeals\views\templates\front\allproduct.tpl:41</note>
+      </trans-unit>
+      <trans-unit id="bb63f16d5ebfcfa8a651642a7bb2ea5c">
+        <source>Sale!</source>
+        <target>Sale!</target>
+        <note>Context:
+File: E:\wamp\www\prestashop17\organicshop\themes\jms_organic\modules\hotdeals\views\templates\front\allproduct.tpl:46</note>
+      </trans-unit>
+      <trans-unit id="2d0f6b8300be19cf35e89e66f0677f95">
+        <source>Add to cart</source>
+        <target>Add to cart</target>
+        <note>Context:
+File: E:\wamp\www\prestashop17\organicshop\themes\jms_organic\modules\hotdeals\views\templates\front\allproduct.tpl:129</note>
+      </trans-unit>
+      <trans-unit id="4351cfebe4b61d8aa5efa1d020710005">
+        <source>View</source>
+        <target>Ver</target>
+        <note>Context:
+File: E:\wamp\www\prestashop17\organicshop\themes\jms_organic\modules\hotdeals\views\templates\front\allproduct.tpl:133</note>
+      </trans-unit>
+      <trans-unit id="63a78ed4647f7c63c2929e35ec1c95e3">
+        <source>Customize</source>
+        <target>Customize</target>
+        <note>Context:
+File: E:\wamp\www\prestashop17\organicshop\themes\jms_organic\modules\hotdeals\views\templates\front\allproduct.tpl:134</note>
+      </trans-unit>
+      <trans-unit id="d3da97e2d9aee5c8fbe03156ad051c99">
+        <source>More</source>
+        <target>More</target>
+        <note>Context:
+File: E:\wamp\www\prestashop17\organicshop\themes\jms_organic\modules\hotdeals\views\templates\front\allproduct.tpl:134</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="E:\wamp\www\prestashop17\organicshop\themes\jms_organic\modules\jmsblog\views\templates\front\tag.tpl" source-language="pt-PT" target-language="pt-PT" datatype="plaintext">
+    <body>
+      <trans-unit id="3adbdb3ac060038aa0e6e6c138ef9873">
+        <source>Category</source>
+        <target>Categoria</target>
+        <note>Context:
+File: E:\wamp\www\prestashop17\organicshop\themes\jms_organic\modules\jmsblog\views\templates\front\tag.tpl:56</note>
+      </trans-unit>
+      <trans-unit id="8413c683b4b27cc3f4dbd4c90329d8ba">
+        <source>Comments</source>
+        <target>Comments</target>
+        <note>Context:
+File: E:\wamp\www\prestashop17\organicshop\themes\jms_organic\modules\jmsblog\views\templates\front\tag.tpl:67</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="E:\wamp\www\prestashop17\organicshop\themes\jms_organic\modules\jmsblogwidget\views\templates\hook\sidebar-widget.tpl" source-language="pt-PT" target-language="pt-PT" datatype="plaintext">
+    <body>
+      <trans-unit id="ed4832a84ee072b00a6740f657183598">
+        <source>Views</source>
+        <target>Views</target>
+        <note>Context:
+File: E:\wamp\www\prestashop17\organicshop\themes\jms_organic\modules\jmsblogwidget\views\templates\hook\sidebar-widget.tpl:73</note>
+      </trans-unit>
+      <trans-unit id="af1b98adf7f686b84cd0b443e022b7a0">
+        <source>Categories</source>
+        <target>Categorias</target>
+        <note>Context:
+File: E:\wamp\www\prestashop17\organicshop\themes\jms_organic\modules\jmsblogwidget\views\templates\hook\sidebar-widget.tpl:96</note>
+      </trans-unit>
+      <trans-unit id="178fde647037235223ac2a188a7106b1">
+        <source>Archives</source>
+        <target>Archives</target>
+        <note>Context:
+File: E:\wamp\www\prestashop17\organicshop\themes\jms_organic\modules\jmsblogwidget\views\templates\hook\sidebar-widget.tpl:104</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="E:\wamp\www\prestashop17\organicshop\themes\jms_organic\modules\jmsblog\views\templates\front\categories-layout-default.tpl" source-language="pt-PT" target-language="pt-PT" datatype="plaintext">
+    <body>
+      <trans-unit id="a4806f5d6786661dae21b8e241270433">
+        <source>Categories dewffaul</source>
+        <target>Categories dewffaul</target>
+        <note>Context:
+File: E:\wamp\www\prestashop17\organicshop\themes\jms_organic\modules\jmsblog\views\templates\front\categories-layout-default.tpl:36</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="E:\wamp\www\prestashop17\organicshop\themes\jms_organic\modules\jmsblogwidget\views\templates\hook\home-widget.tpl" source-language="pt-PT" target-language="pt-PT" datatype="plaintext">
+    <body>
+      <trans-unit id="d959bbe25cc020e2db5276cb42927c7c">
+        <source>read more</source>
+        <target>read more</target>
+        <note>Context:
+File: E:\wamp\www\prestashop17\organicshop\themes\jms_organic\modules\jmsblogwidget\views\templates\hook\home-widget.tpl:101</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="E:\wamp\www\prestashop17\organicshop\themes\jms_organic\modules\jmspagebuilder\views\templates\hook\addoncategoryshow2.tpl" source-language="pt-PT" target-language="pt-PT" datatype="plaintext">
+    <body>
+      <trans-unit id="a1c4eb450799cb3f30c400d0201414e7">
+        <source>Discovery</source>
+        <target>Discovery</target>
+        <note>Context:
+File: E:\wamp\www\prestashop17\organicshop\themes\jms_organic\modules\jmspagebuilder\views\templates\hook\addoncategoryshow2.tpl:25</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="E:\wamp\www\prestashop17\organicshop\themes\jms_organic\modules\jmspagebuilder\views\templates\hook\addoncountdown.tpl" source-language="pt-PT" target-language="pt-PT" datatype="plaintext">
+    <body>
+      <trans-unit id="1ffef9c76652bb7916620df7a6d7e1ad">
+        <source>With best flash sale up 50% off </source>
+        <target>With best flash sale up 50% off </target>
+        <note>Context:
+File: E:\wamp\www\prestashop17\organicshop\themes\jms_organic\modules\jmspagebuilder\views\templates\hook\addoncountdown.tpl:32</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="E:\wamp\www\prestashop17\organicshop\themes\jms_organic\templates\catalog\_partials\miniatures\product3.tpl" source-language="pt-PT" target-language="pt-PT" datatype="plaintext">
+    <body>
+      <trans-unit id="6a5373df703ab2827a4ba7facdfcf779">
+        <source>Add to Wishlist</source>
+        <target>Add to Wishlist</target>
+        <note>Context:
+File: E:\wamp\www\prestashop17\organicshop\themes\jms_organic\templates\catalog\_partials\miniatures\product3.tpl:72</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="E:\wamp\www\prestashop17\organicshop\themes\jms_organic\modules\jmswishlist\views\templates\front\managewishlist.tpl" source-language="pt-PT" target-language="pt-PT" datatype="plaintext">
+    <body>
+      <trans-unit id="6bc362dbf494c61ea117fe3c71ca48a5">
+        <source>Move</source>
+        <target>Move</target>
+        <note>Context:
+File: E:\wamp\www\prestashop17\organicshop\themes\jms_organic\modules\jmswishlist\views\templates\front\managewishlist.tpl:79</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="E:\wamp\www\prestashop17\organicshop\themes\jms_organic\templates\catalog\_partials\miniatures\product.tpl" source-language="pt-PT" target-language="pt-PT" datatype="plaintext">
+    <body>
+      <trans-unit id="77d0ca01f26646b0fa2bc3d27f1fa84f">
+        <source>Add to quickview</source>
+        <target>Add to quickview</target>
+        <note>Context:
+File: E:\wamp\www\prestashop17\organicshop\themes\jms_organic\templates\catalog\_partials\miniatures\product.tpl:59</note>
+      </trans-unit>
+      <trans-unit id="da22c93ccb398c72070f4000cc7b59a1">
+        <source>Customization</source>
+        <target>Customization</target>
+        <note>Context:
+File: E:\wamp\www\prestashop17\organicshop\themes\jms_organic\templates\catalog\_partials\miniatures\product.tpl:63</note>
+      </trans-unit>
+      <trans-unit id="638f592f71fc3fac3351534e69f9d29f">
+        <source>Add to Cart</source>
+        <target>Add to Cart</target>
+        <note>Context:
+File: E:\wamp\www\prestashop17\organicshop\themes\jms_organic\templates\catalog\_partials\miniatures\product.tpl:67</note>
+      </trans-unit>
+      <trans-unit id="e990b6285ed2a575c561235378a5e691">
+        <source>Out of Stock</source>
+        <target>Out of Stock</target>
+        <note>Context:
+File: E:\wamp\www\prestashop17\organicshop\themes\jms_organic\templates\catalog\_partials\miniatures\product.tpl:71</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="E:\wamp\www\prestashop17\organicshop\themes\jms_organic\templates\catalog\_partials\product-add-to-cart.tpl" source-language="pt-PT" target-language="pt-PT" datatype="plaintext">
+    <body>
+      <trans-unit id="b9579941153133f0f1ab68cd0c219cfd">
+        <source>Shipping tax: </source>
+        <target>Shipping tax: </target>
+        <note>Context:
+File: E:\wamp\www\prestashop17\organicshop\themes\jms_organic\templates\catalog\_partials\product-add-to-cart.tpl:58</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="E:\wamp\www\prestashop17\organicshop\themes\jms_organic\templates\checkout\checkout.tpl" source-language="pt-PT" target-language="pt-PT" datatype="plaintext">
+    <body>
+      <trans-unit id="3ed53fbeb1eab0443561b68ca0c0b5cf">
+        <source>MENU</source>
+        <target>MENU</target>
+        <note>Context:
+File: E:\wamp\www\prestashop17\organicshop\themes\jms_organic\templates\checkout\checkout.tpl:40</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

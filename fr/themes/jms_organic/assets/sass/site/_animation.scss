@@ -1,0 +1,255 @@
+.spinner {
+    -webkit-animation: spinner 2s infinite linear;
+    animation: spinner 2s infinite linear;
+}
+
+@-webkit-keyframes spinner {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+@-moz-keyframes spinner {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+@keyframes spinner {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+
+// Style 1
+@-webkit-keyframes loadingstyle1 {
+	0%, 100% {
+		@include transform(scale(0));;
+	}
+	50% {
+		@include transform(scale(1.0));
+	}
+}
+
+@-moz-keyframes loadingstyle1 {
+	0%, 100% {
+		@include transform(scale(0));;
+	}
+	50% {
+		@include transform(scale(1.0));
+	}
+}
+
+
+@keyframes loadingstyle1 {
+	0%, 100% {
+		@include transform(scale(0));;
+	}
+	50% {
+		@include transform(scale(1.0));
+	}
+}
+
+// Style 2
+@-webkit-keyframes loadingstyle2 {
+	0% {
+		@include transform(perspective(120px) rotateX(0) rotateY(0));
+	}
+	50% {
+		@include transform(perspective(120px) rotateX(-180.1deg) rotateY(0));
+	}
+	100% {
+		@include transform(perspective(120px) rotateX(-180deg) rotateY(-179.9deg));
+	}
+}
+
+@-moz-keyframes loadingstyle2 {
+	0% {
+		@include transform(perspective(120px) rotateX(0) rotateY(0));
+	}
+	50% {
+		@include transform(perspective(120px) rotateX(-180.1deg) rotateY(0));
+	}
+	100% {
+		@include transform(perspective(120px) rotateX(-180deg) rotateY(-179.9deg));
+	}
+}
+
+@keyframes loadingstyle2 {
+	0% {
+		@include transform(perspective(120px) rotateX(0) rotateY(0));
+	}
+	50% {
+		@include transform(perspective(120px) rotateX(-180.1deg) rotateY(0));
+	}
+	100% {
+		@include transform(perspective(120px) rotateX(-180deg) rotateY(-179.9deg));
+	}
+}
+
+// Style 4
+@-webkit-keyframes loadingstyle4 {
+    0%, 100%, 80% {
+        @include transform(scale(0));
+    }
+    40% {
+        @include transform(scale(1));
+    }
+}
+
+@-moz-keyframes loadingstyle4 {
+    0%, 100%, 80% {
+        @include transform(scale(0));
+    }
+    40% {
+        @include transform(scale(1));
+    }
+}
+
+@keyframes loadingstyle4 {
+    0%, 100%, 80% {
+        @include transform(scale(0));
+    }
+    40% {
+        @include transform(scale(1));
+    }
+}
+
+//Style 5
+@-webkit-keyframes loadingstyle5 {
+	0% {
+		@include transform(scale(0));
+	}
+	100% {
+		@include transform(scale(1));
+		opacity: 0;
+	}
+}
+
+
+@-moz-keyframes loadingstyle5 {
+	0% {
+		@include transform(scale(0));
+	}
+	100% {
+		@include transform(scale(1));
+		opacity:0
+	}
+}
+
+
+@keyframes loadingstyle5 {
+	0% {
+		@include transform(scale(0));
+	}
+	100% {
+		@include transform(scale(1));
+		opacity:0
+	}
+}
+// Style 6
+@-webkit-keyframes loadingstyle6 {
+	100% {
+		@include transform(rotate(360deg));
+	}
+}
+
+@-moz-keyframes loadingstyle6 {
+	100% {
+		@include transform(rotate(360deg));
+	}
+}
+
+@keyframes loadingstyle6 {
+	100% {
+		@include transform(rotate(360deg));
+	}
+}
+/* Effect Right To Left */
+
+
+@-webkit-keyframes toRightFromLeft {
+	49% {
+		-webkit-transform: translate(100%);
+	}
+	50% {
+		opacity: 0;
+		-webkit-transform: translate(-100%);
+	}
+	51% {
+		opacity: 1;
+	}
+}
+@-moz-keyframes toRightFromLeft {
+	49% {
+		-moz-transform: translate(100%);
+	}
+	50% {
+		opacity: 0;
+		-moz-transform: translate(-100%);
+	}
+	51% {
+		opacity: 1;
+	}
+}
+@keyframes toRightFromLeft {
+	49% {
+		transform: translate(100%);
+	}
+	50% {
+		opacity: 0;
+		transform: translate(-100%);
+	}
+	51% {
+		opacity: 1;
+	}
+}
+
+@-webkit-keyframes spinAround {
+  from {
+    -webkit-transform: rotate(0deg); }
+  to {
+    -webkit-transform: rotate(360deg); } }
+
+@-moz-keyframes spinAround {
+  from {
+    -moz-transform: rotate(0deg); }
+  to {
+    -moz-transform: rotate(360deg); } }
+
+@keyframes spinAround {
+  from {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg); }
+  to {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg); } }
+
+
+@-webkit-keyframes fa-car {
+    0%   {
+		transform: translate(0px, 0px);
+    }
+    100% {
+    	transform: translate(-25px, 0px);
+    }
+}
+
+@keyframes fa-car{
+    0%   {
+		transform: translate(0px, 0px);
+    }
+    100% {
+    	transform: translate(-25px, 0px);
+    }
+}

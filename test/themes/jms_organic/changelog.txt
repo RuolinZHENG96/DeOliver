@@ -1,0 +1,3 @@
+OrganicShop for Prestashop 1.7 version 1.0, 20018-03-15
+-------------------------
+- Release Version 1.0

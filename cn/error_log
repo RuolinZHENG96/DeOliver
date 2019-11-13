@@ -1,0 +1,64 @@
+[10-Apr-2019 14:05:47 US/Eastern] PHP Warning:  Division by zero in /home/deolive1/public_html/test/modules/jmspagebuilder/classes/productHelper.php on line 472
+[10-Apr-2019 14:05:47 US/Eastern] PHP Warning:  Division by zero in /home/deolive1/public_html/test/modules/jmspagebuilder/classes/productHelper.php on line 475
+[10-Apr-2019 14:05:47 US/Eastern] PHP Fatal error:  Uncaught DivisionByZeroError: Modulo by zero in /home/deolive1/public_html/test/modules/jmspagebuilder/classes/productHelper.php:488
+Stack trace:
+#0 /home/deolive1/public_html/test/modules/jmspagebuilder/addons/addoncategorytab.php(226): JmsProductHelper::sliceProducts(Array, 0, 4, 20)
+#1 /home/deolive1/public_html/test/modules/jmspagebuilder/jmspagebuilder.php(233): JmsAddonCategoryTab->returnValue(Object(stdClass))
+#2 /home/deolive1/public_html/test/modules/jmspagebuilder/jmspagebuilder.php(550): JmsPageBuilder->loadAddon(Object(stdClass))
+#3 /home/deolive1/public_html/test/classes/Hook.php(924): JmsPageBuilder->hookdisplayHome(Array)
+#4 /home/deolive1/public_html/test/classes/Hook.php(328): HookCore::coreCallHook(Object(JmsPageBuilder), 'hookdisplayHome', Array)
+#5 /home/deolive1/public_html/test/classes/Hook.php(860): HookCore::callHookOn(Object(JmsPageBuilder), 'displayHome', Array)
+#6 /home/deolive1/public_html/test/controllers/front/IndexController.php(39): HookCore::exec('displayHome')
+#7 /home/deoliv in /home/deolive1/public_html/test/modules/jmspagebuilder/classes/productHelper.php on line 488
+[10-Apr-2019 14:05:55 US/Eastern] PHP Warning:  Division by zero in /home/deolive1/public_html/test/modules/jmspagebuilder/classes/productHelper.php on line 472
+[10-Apr-2019 14:05:55 US/Eastern] PHP Warning:  Division by zero in /home/deolive1/public_html/test/modules/jmspagebuilder/classes/productHelper.php on line 475
+[10-Apr-2019 14:05:55 US/Eastern] PHP Fatal error:  Uncaught DivisionByZeroError: Modulo by zero in /home/deolive1/public_html/test/modules/jmspagebuilder/classes/productHelper.php:488
+Stack trace:
+#0 /home/deolive1/public_html/test/modules/jmspagebuilder/addons/addoncategorytab.php(226): JmsProductHelper::sliceProducts(Array, 0, 4, 20)
+#1 /home/deolive1/public_html/test/modules/jmspagebuilder/jmspagebuilder.php(233): JmsAddonCategoryTab->returnValue(Object(stdClass))
+#2 /home/deolive1/public_html/test/modules/jmspagebuilder/jmspagebuilder.php(550): JmsPageBuilder->loadAddon(Object(stdClass))
+#3 /home/deolive1/public_html/test/classes/Hook.php(924): JmsPageBuilder->hookdisplayHome(Array)
+#4 /home/deolive1/public_html/test/classes/Hook.php(328): HookCore::coreCallHook(Object(JmsPageBuilder), 'hookdisplayHome', Array)
+#5 /home/deolive1/public_html/test/classes/Hook.php(860): HookCore::callHookOn(Object(JmsPageBuilder), 'displayHome', Array)
+#6 /home/deolive1/public_html/test/controllers/front/IndexController.php(39): HookCore::exec('displayHome')
+#7 /home/deoliv in /home/deolive1/public_html/test/modules/jmspagebuilder/classes/productHelper.php on line 488
+[10-Apr-2019 14:06:03 US/Eastern] PHP Warning:  Division by zero in /home/deolive1/public_html/test/modules/jmspagebuilder/classes/productHelper.php on line 472
+[10-Apr-2019 14:06:03 US/Eastern] PHP Warning:  Division by zero in /home/deolive1/public_html/test/modules/jmspagebuilder/classes/productHelper.php on line 475
+[10-Apr-2019 14:06:03 US/Eastern] PHP Fatal error:  Uncaught DivisionByZeroError: Modulo by zero in /home/deolive1/public_html/test/modules/jmspagebuilder/classes/productHelper.php:488
+Stack trace:
+#0 /home/deolive1/public_html/test/modules/jmspagebuilder/addons/addoncategorytab.php(226): JmsProductHelper::sliceProducts(Array, 0, 4, 20)
+#1 /home/deolive1/public_html/test/modules/jmspagebuilder/jmspagebuilder.php(233): JmsAddonCategoryTab->returnValue(Object(stdClass))
+#2 /home/deolive1/public_html/test/modules/jmspagebuilder/jmspagebuilder.php(550): JmsPageBuilder->loadAddon(Object(stdClass))
+#3 /home/deolive1/public_html/test/classes/Hook.php(924): JmsPageBuilder->hookdisplayHome(Array)
+#4 /home/deolive1/public_html/test/classes/Hook.php(328): HookCore::coreCallHook(Object(JmsPageBuilder), 'hookdisplayHome', Array)
+#5 /home/deolive1/public_html/test/classes/Hook.php(860): HookCore::callHookOn(Object(JmsPageBuilder), 'displayHome', Array)
+#6 /home/deolive1/public_html/test/controllers/front/IndexController.php(39): HookCore::exec('displayHome')
+#7 /home/deoliv in /home/deolive1/public_html/test/modules/jmspagebuilder/classes/productHelper.php on line 488
+[11-Apr-2019 07:58:51 US/Eastern] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/deolive1/public_html/test/themes/jms_organic/templates/customer/_partials/address-form.tpl"  on line 56 "{{!--<p class="required city select">"  - Unexpected "--" <-- 
+  thrown in /home/deolive1/public_html/test/vendor/smarty/smarty/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 56
+[11-Apr-2019 07:58:59 US/Eastern] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/deolive1/public_html/test/themes/jms_organic/templates/customer/_partials/address-form.tpl"  on line 56 "{{!--<p class="required city select">"  - Unexpected "--" <-- 
+  thrown in /home/deolive1/public_html/test/vendor/smarty/smarty/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 56
+[11-Apr-2019 07:59:38 US/Eastern] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/deolive1/public_html/test/themes/jms_organic/templates/customer/_partials/address-form.tpl"  on line 56 "{{!--<p class="required city select">"  - Unexpected "--" <-- 
+  thrown in /home/deolive1/public_html/test/vendor/smarty/smarty/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 56
+[26-Apr-2019 11:35:56 US/Eastern] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "module:module:psemailsubscriptionviewst"  on line 52 "{{!--<p>{l s='Subscribe now  to save 15 percents on any of our products' d='Shop.Theme.Global'}</p>--}}"  - Unexpected "--" <-- 
+  thrown in /home/deolive1/public_html/fr/vendor/smarty/smarty/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 52
+[27-Apr-2019 13:03:53 Europe/Berlin] PHP Warning:  require(/home/deolive1/public_html/cn/vendor/composer/../react/promise/src/functions_include.php): failed to open stream: No such file or directory in /home/deolive1/public_html/cn/vendor/composer/autoload_real.php on line 61
+[27-Apr-2019 13:03:53 Europe/Berlin] PHP Fatal error:  require(): Failed opening required '/home/deolive1/public_html/cn/vendor/composer/../react/promise/src/functions_include.php' (include_path='/home/deolive1/public_html/cn/vendor/pear/pear_exception:/home/deolive1/public_html/cn/vendor/pear/console_getopt:/home/deolive1/public_html/cn/vendor/pear/pear-core-minimal/src:/home/deolive1/public_html/cn/vendor/pear/archive_tar:.:/opt/alt/php70/usr/share/pear') in /home/deolive1/public_html/cn/vendor/composer/autoload_real.php on line 61
+[27-Apr-2019 14:06:32 Europe/Berlin] PHP Warning:  include(/home/deolive1/public_html/cn/vendor/composer/../symfony/symfony/src/Symfony/Component/Filesystem/Filesystem.php): failed to open stream: No such file or directory in /home/deolive1/public_html/cn/vendor/composer/ClassLoader.php on line 444
+[27-Apr-2019 14:06:32 Europe/Berlin] PHP Warning:  include(): Failed opening '/home/deolive1/public_html/cn/vendor/composer/../symfony/symfony/src/Symfony/Component/Filesystem/Filesystem.php' for inclusion (include_path='/home/deolive1/public_html/cn/vendor/pear/pear_exception:/home/deolive1/public_html/cn/vendor/pear/console_getopt:/home/deolive1/public_html/cn/vendor/pear/pear-core-minimal/src:/home/deolive1/public_html/cn/vendor/pear/archive_tar:.:/opt/alt/php70/usr/share/pear') in /home/deolive1/public_html/cn/vendor/composer/ClassLoader.php on line 444
+[27-Apr-2019 14:06:32 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Filesystem\Filesystem' not found in /home/deolive1/public_html/cn/config/bootstrap.php:50
+Stack trace:
+#0 /home/deolive1/public_html/cn/config/config.inc.php(57): require_once()
+#1 /home/deolive1/public_html/cn/index.php(27): require('/home/deolive1/...')
+#2 {main}
+  thrown in /home/deolive1/public_html/cn/config/bootstrap.php on line 50
+[27-Apr-2019 14:06:54 Europe/Berlin] PHP Warning:  include(/home/deolive1/public_html/cn/vendor/composer/../symfony/symfony/src/Symfony/Component/Filesystem/Filesystem.php): failed to open stream: No such file or directory in /home/deolive1/public_html/cn/vendor/composer/ClassLoader.php on line 444
+[27-Apr-2019 14:06:54 Europe/Berlin] PHP Warning:  include(): Failed opening '/home/deolive1/public_html/cn/vendor/composer/../symfony/symfony/src/Symfony/Component/Filesystem/Filesystem.php' for inclusion (include_path='/home/deolive1/public_html/cn/vendor/pear/pear_exception:/home/deolive1/public_html/cn/vendor/pear/console_getopt:/home/deolive1/public_html/cn/vendor/pear/pear-core-minimal/src:/home/deolive1/public_html/cn/vendor/pear/archive_tar:.:/opt/alt/php70/usr/share/pear') in /home/deolive1/public_html/cn/vendor/composer/ClassLoader.php on line 444
+[27-Apr-2019 14:06:54 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Filesystem\Filesystem' not found in /home/deolive1/public_html/cn/config/bootstrap.php:50
+Stack trace:
+#0 /home/deolive1/public_html/cn/config/config.inc.php(57): require_once()
+#1 /home/deolive1/public_html/cn/index.php(27): require('/home/deolive1/...')
+#2 {main}
+  thrown in /home/deolive1/public_html/cn/config/bootstrap.php on line 50
+[05-Jun-2019 13:03:31 UTC] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/deolive1/public_html/cn/themes/jms_organic/templates/customer/_partials/address-form.tpl"  on line 316 "{/block}" unclosed '{if}' tag <-- 
+  thrown in /home/deolive1/public_html/cn/vendor/smarty/smarty/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 316

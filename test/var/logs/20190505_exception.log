@@ -1,0 +1,2 @@
+*ERROR* 	v1.7.4.3	2019/05/05 - 22:16:10: Link to database cannot be established: SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) at line 120 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.4.3	2019/05/05 - 22:16:10: Link to database cannot be established: SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) at line 120 in file classes/db/DbPDO.php

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="E:\wamp\www\prestashop17\organicshop\themes\jms_organic\modules\ps_bestsellers\views\templates\hook\ps_bestsellers.tpl" source-language="it-IT" target-language="it-IT" datatype="plaintext">
+    <body>
+      <trans-unit id="d7b2933ba512ada478c97fa43dd7ebe6">
+        <source>Best Sellers</source>
+        <target>Migliori vendite</target>
+        <note>Context:
+File: E:\wamp\www\prestashop17\organicshop\themes\jms_organic\modules\ps_bestsellers\views\templates\hook\ps_bestsellers.tpl:28</note>
+      </trans-unit>
+      <trans-unit id="d8d7ad6abfd08c27baa8bedb78c72ddb">
+        <source>View All</source>
+        <target>View All</target>
+        <note>Context:
+File: E:\wamp\www\prestashop17\organicshop\themes\jms_organic\modules\ps_bestsellers\views\templates\hook\ps_bestsellers.tpl:36</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

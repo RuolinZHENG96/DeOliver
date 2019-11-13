@@ -1,0 +1,194 @@
+button{
+    outline: none;
+    cursor: pointer;
+}
+button:focus{
+    outline: none;
+}
+.btn-secondary:not(:disabled):not(.disabled).active:focus, .btn-secondary:not(:disabled):not(.disabled):active:focus, .show > .btn-secondary.dropdown-toggle:focus{
+    box-shadow: none;
+}
+.btn {
+    font-weight: 600;
+    border-radius: 0px;
+    text-transform: uppercase;  
+    border:0;
+    font-size: 14px;
+    letter-spacing: 0.07em;
+}
+.btn:hover, .btn:focus, .btn.focus{
+  color:#fff;
+}
+.btn.focus, .btn:focus, .btn:hover, .btn:active {
+  border:0;
+  outline: none;
+}
+.btn-shopnow {
+    line-height: 18px;
+    padding: 16px 40px;
+    cursor: pointer;
+}
+.btn-default {
+    padding: 9px 25px;
+    color: #fff;
+    text-transform: uppercase;
+    border: 2px solid $main-color;
+    border-radius: 0;
+    position: relative;
+    background-color: $colorgreen;
+}
+.btn-default:hover, .btn-default:focus, .btn-default:active{
+     background-color:  $colorgreen;
+     color:#fff;
+}
+.btn-active{
+  background-color: $colorgreen;
+  color:#fff;
+
+}
+.btn-primary:hover,
+.btn-default.active:hover,
+.btn.active:hover{
+  color:#92c72a;
+}
+.btn.active,
+.btn:active, .btn:hover{
+  box-shadow:none;
+}
+.button-medium {
+    color: #fff;
+    padding: 9px 38px;
+}
+.btn.btn-primary:hover{
+    color:#fff;
+}
+.buttonText{
+    color:#fff;
+}
+.icon-span-filestyle {
+    color:#fff;
+}
+.btn-primary{
+    background-color: $colorgreen;
+    &:hover, &:focus,&:active{
+         background-color: $colorgreen;
+    }
+}
+.btn-effect::before, .btn-default::before {
+    background: #85af6f none repeat scroll 0 0;
+    bottom: 0;
+    content: "";
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    transform: scaleX(0);
+    transform-origin: 0 0 0;
+    transition-duration: 0.5s;
+    transition-property: transform;
+    transition-timing-function: ease-out;
+    z-index: -1;
+}
+
+.btn-effect, .btn-default {
+    box-shadow: 0 0 1px transparent;
+    display: inline-block;
+    position: relative;
+    transform: perspective(1px) translateZ(0px);
+    transition-duration: 0.5s;
+    transition-property: color;
+    vertical-align: middle;
+  border:0;
+  color:#fff;
+}
+.btn-effect:hover::before, .btn-effect:focus::before, .btn-effect:active::before ,
+.btn-default:hover::before, .btn-default:focus::before, .btn-default:active::before{
+    transform: scaleX(1);
+    transition-timing-function: cubic-bezier(0.52, 1.64, 0.37, 0.66);
+}
+.button-small {
+    font-size: 12px;
+letter-spacing: 0.05em;
+padding: 7px 10px;
+font-weight: 600;
+}
+.btn.btn-primary {
+    font-weight: 600;
+}
+#button_order_cart {
+    background-color: #fff;
+    border: 2px solid #ebebeb;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 11px 29px;
+    text-align: center;
+    letter-spacing: 0.1em;
+    border-radius: 30px;
+    border: 2px solid $colorgreen;
+    color:#222;
+    position: relative;
+    z-index: 1;
+    &:hover{
+        border:2px solid $colorgreen;
+        color:#fff;
+        background-color: $colorgreen;
+        @include transition(all 500ms ease 0s);
+    }
+}
+.btn-shopnow {
+    border: 3px solid #fff;
+    border-radius: 30px;
+    color:#fff;
+    background-color: transparent;
+    position: relative;
+}
+.btn-other{
+    border: 3px solid $colorgreen;
+    border-radius: 30px;
+    color:#222;
+    position: relative;
+    padding: 16px 40px;
+    background-color: transparent;
+    position: relative;
+}
+
+.btn-shopnow::before, .btn-other::before{
+    border-radius: 30px;
+    bottom: 0;
+    content: "";
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    transform: scale(0);
+    transition-duration: 0.3s;
+    transition-property: transform;
+    transition-timing-function: ease-out;
+    z-index: -1;
+}
+.btn-shopnow::before{
+    background-color: #fff;
+}
+.btn-other::before{
+    background-color: #fff;
+}
+.btn-other::before{
+    background-color: #90bc79;
+}
+.btn-shopnow:hover::before, .btn-shopnow:active::before, .btn-shopnow:focus::before, 
+.btn-other:hover::before, .btn-other:active::before, .btn-other:focus::before {
+    @include transform(scale(1));
+}
+.btn-shopnow:hover , .btn-shopnow:active,.btn-shopnow:focus {
+    border: 3px solid #fff;
+   color:$colorgreen;
+   background-color: #fff;
+   @include transition(all 500ms ease 0s);
+}
+.btn-other:hover , .btn-other:active,.btn-other:focus {
+    border: 3px solid $colorgreen;
+   color:#fff;
+    background-color: $colorgreen;
+    @include transition(all 500ms ease 0s);
+
+}
